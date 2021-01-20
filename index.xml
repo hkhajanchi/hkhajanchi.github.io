@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>title</title>
+    <link>https://hkhajanchi.github.io/</link>
+    <description>Recent content on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {2020}</copyright><atom:link href="https://hkhajanchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://hkhajanchi.github.io/publications/</link>
+      <pubDate>Sat, 14 Nov 2020 19:59:54 -0500</pubDate>
+      
+      <guid>https://hkhajanchi.github.io/publications/</guid>
+      <description>Khajanchi, H., Bruno, J., Adegbege, A. (2020). A Real-Time Architecture for Embedded Model Predictive Control International Federation of Automatic Control World Congress
+Khajanchi, H., Bezold, J., Kilcher, M., et. al (2019). PSIG-GAN: A Parameterized Synthetic Image Generator Optimized via Non-Differentiable GAN IEEE Applied Imagery and Pattern Recognition Workshop</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://hkhajanchi.github.io/research/</link>
+      <pubDate>Sat, 14 Nov 2020 19:29:43 -0500</pubDate>
+      
+      <guid>https://hkhajanchi.github.io/research/</guid>
+      <description>Analog Solvers for Real-time Model Predictive Control
+September 2019
+The College of New Jersey
+Advised by Dr. Ambrose Adegbege
+ Helped develop MATLAB simulations for comparing different continuous-time quadratic programming solvers  Hardware Acceleration for AI-based Hearing Aids
+Ongoing
+Illinois Institute of Technology &amp;amp; Northwestern University
+Advised by Dr. Kyle Hale (IIT) and Dr. Prem Seetharaman (Northwestern)
+ Developing low latency &amp;amp; low power architectures for real-time audio source separation Built preliminary RTL designs using Vivado High-Level Synthesis and Chisel HDL  Digital Model Predictive Control (MPC) with FPGAs</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://hkhajanchi.github.io/education/</link>
+      <pubDate>Sat, 14 Nov 2020 19:25:29 -0500</pubDate>
+      
+      <guid>https://hkhajanchi.github.io/education/</guid>
+      <description>Ph.D. Computer Engineering, Northwestern University
+Expected: 2025
+Advised by Simone Campanoni
+B.S Electrical Engineering, The College of New Jersey
+2020
+GPA 3.69
+Graduated Cum Laude</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hkhajanchi.github.io/about/</link>
+      <pubDate>Sat, 14 Nov 2020 14:07:47 -0500</pubDate>
+      
+      <guid>https://hkhajanchi.github.io/about/</guid>
+      <description>I&amp;rsquo;m a first year Computer Engineering PhD student at Northwestern University advised by Prof. Simone Campanoni. My research interests are at the intersection of compilers and computer architecture, specifically for resource-constrained environments. I did my undergrad in Electrical Engineering at The College of New Jersey, where I did some research in embedded control and deep learning.
+Outside of the lab, I enjoy playing ice hockey, lifting weights, skiing, running and playing tennis.</description>
+    </item>
+    
+  </channel>
+</rss>
